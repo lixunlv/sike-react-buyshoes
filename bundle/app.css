@@ -625,7 +625,7 @@ a {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 15px 20px 20px 0;
+  padding: 15px 20px 20px 10px;
 }
 
 .product__name {
